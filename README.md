@@ -1,2 +1,2 @@
-# django-on-steroids
-This is Django, but on steroids!
+# django-unchained
+This is Django, without chains!
